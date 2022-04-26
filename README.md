@@ -1,1 +1,1 @@
-Read before you go further
+Prints "Hello, world!"
